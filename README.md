@@ -1,4 +1,4 @@
-<h1>Ignite Feed</h1>
+<h1>Ignite Feed <img src="https://github.com/Giigio/ignite-project/blob/main/src/assets/ignite-logo.svg" width="30"/></h1>
 
 <p>Ignite Feed faz parte do projeto realizado na trilha de <strong>React.js</strong> realizado pela <strong><a href="https://github.com/rocketseat-education/" target="_blank">Rocketseat</a>🚀</strong>.</p>
 <p>Este projeto é uma aplicação web que utiliza de ReactJS, TypeScript e Bun. Ele é um protótipo de feed encontrados em diversas redes sociais, onde podemos criar posts, escrever/excluir comentários e deixar likes.</p>
