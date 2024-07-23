@@ -5,7 +5,7 @@
 
 <h2>Preview</h2>
 
-<p align="center">Este ainda é um projeto em andamento.</p>
+<p align="center"><strong>Este ainda é um projeto em andamento.</strong></p>
 
 <h2>Instalação</h2>
 
