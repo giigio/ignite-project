@@ -5,7 +5,6 @@ import styles from "./Post.module.css";
 import { Comment } from "./Comment";
 import { Avatar } from "./Avatar";
 import { useState } from "react";
-
 interface PostProps {
   author: {
     avatarUrl: string;
@@ -13,7 +12,7 @@ interface PostProps {
     role: string;
   };
   content: {
-    type: string;
+    type: "paragraph" | "link";
     content: string;
   }[];
   publishedAt: Date;
